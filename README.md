@@ -1,2 +1,0 @@
-# geekdman.github.io
-blog
